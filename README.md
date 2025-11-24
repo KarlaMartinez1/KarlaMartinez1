@@ -75,8 +75,8 @@ Soy estudiante de **Ingeniería Informática**, apasionada por el análisis, dis
 ## 📩 Cómo contactarme
 
 <p align="center">
-  <a href=kadamage@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
-  &nbsp;
+  <!-- <a href=kadamage@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  &nbsp; -->
   <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Bd7VDqJVFQfaZ%2FYE1xaDmrA%3D%3D"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
 </p>
 
