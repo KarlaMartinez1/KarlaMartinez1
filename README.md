@@ -11,10 +11,10 @@
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHg3dm16cG1tbHh0ZGRldWI4ZzZ0Mjl5Z2xxMW5nYnU4bzhleGI5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif" width="70px"> Sobre mí
 
-Soy estudiante de **Ingeniería Informática**, apasionada por el análisis, diseño y desarrollo de software. Tengo experiencia en desarrollo web, bases de datos y creación de aplicaciones móviles. Disfruto construir soluciones limpias, eficientes y con propósito, aplicando tanto lógica como creatividad.  
+Soy estudiante de **Ingeniería Informática**, apasionada por el análisis, diseño y desarrollo de software. Me especializo en el desarrollo **Frontend**. Tengo experiencia en desarrollo web, bases de datos y creación de aplicaciones móviles. Disfruto construir soluciones limpias, eficientes y con propósito, aplicando tanto lógica como creatividad.  
 
 💡 Actualmente aprendiendo: **Python, JavaScript, SQL, principios de seguridad, arquitectura de software**  
-🔧 Interesada en aprender: **Entornos cloud, mejor desarrollo seguro y diseño de sistemas, análisis de vulnerabilidades**  
+🔧 Interesada en aprender: **Cloud, seguridad en desarrollo, diseño y arquitectura de sistemas, análisis de vulnerabilidades y optimización de bases de datos**  
 🎯 Objetivo 2025: Convertirme en desarrolladora **FullStack**, sólida tanto en frontend como backend  
 🌱 Áreas de interés: ingeniería de software, bases de datos, UI/UX, seguridad, DevOps inicial
 
@@ -34,17 +34,13 @@ Soy estudiante de **Ingeniería Informática**, apasionada por el análisis, dis
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,java,kotlin,cpp" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,postgres,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,postgres,github,vscode" />
 </p>
 
 ---
 ## Mis Proyectos 💡
 
 <div align="center">
-
-<a href="https://github.com/Glimmercitos/VitalPaw_Backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Glimmercitos&repo=VitalPaw_Backend&theme=material-palenight" />
-</a>
 
 <a href="https://github.com/Glimmercitos/VitalPaw_UI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Glimmercitos&repo=VitalPaw_UI&theme=material-palenight" />
