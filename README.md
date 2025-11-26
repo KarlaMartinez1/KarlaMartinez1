@@ -23,7 +23,7 @@ Soy estudiante de **Ingeniería Informática**, apasionada por el análisis, dis
 ## 📊 Estadísticas de mi GitHub
 
 <p align="center">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KarlaMartinez1&theme=material-palenight&show_icons=true" alt="Karla Github Stats"/>
+    <img height="160em" src="http://github-readme-stats.vercel.app/api?username=KarlaMartinez1&theme=material-palenight&show_icons=true" alt="Karla Github Stats"/>
     <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=KarlaMartinez1&theme=material-palenight&show_icons=true"/>
 </p>
 
