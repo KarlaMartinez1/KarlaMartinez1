@@ -73,7 +73,7 @@ Soy estudiante de **Ingeniería Informática**, apasionada por el análisis, dis
 <p align="center">
   <!-- <a href=kadamage@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
   &nbsp; -->
-  <a href="www.linkedin.com/in/karla-martinez-07392631b"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="https://www.linkedin.com/in/karla-martinez-07392631b"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
 </p>
 
 ---
